@@ -40,6 +40,15 @@ namespace TestProject
             char letter = student.getLetterScore();
             Assert.AreEqual('D', letter);
         }
+        [TestMethod]
+        public void testCase5()
+        {
+            Student student = new Student();
+            student.Score = 2.5;
+            char letter = student.getLetterScore();
+            Assert.AreEqual('E', letter);
+        }
+
     }
     
 }
