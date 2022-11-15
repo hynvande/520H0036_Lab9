@@ -48,6 +48,25 @@ namespace TestProject
             char letter = student.getLetterScore();
             Assert.AreEqual('E', letter);
         }
+        
+        [TestInitialize]
+        public void init()
+        {
+            s = new Student();
+        }
+
+        [TestMethod]
+        [DataRow(8.0, 'A')]
+        [DataRow(7.5, 'B')]
+        [DataRow(6.5, 'C')]
+        [DataRow(3.5, 'D')]
+        [DataRow(2.5, 'E')]
+        public void TestMultipScore(double score, char excep)
+        {
+            s.Score = score;
+            char letter = s.getLetterScore();
+            Assert.AreEqual(excep, letter);
+        }
 
     }
     
