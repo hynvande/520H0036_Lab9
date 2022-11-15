@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\bin\Debug\net6.0\StudentServiceLib.deps.json
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\bin\Debug\net6.0\StudentServiceLib.dll
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\bin\Debug\net6.0\StudentServiceLib.pdb
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.dll
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\refint\StudentServiceLib.dll
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\StudentServiceLib.pdb
+C:\Users\ADMIN\source\repos\TestProject\StudentServiceLib\obj\Debug\net6.0\ref\StudentServiceLib.dll
